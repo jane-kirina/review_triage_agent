@@ -1,0 +1,10 @@
+__pycache__
+.venv/
+.vscode/
+.env
+
+note.txt
+
+data/raw_data/
+scripts/start-dev.ps1
+*.ipynb
