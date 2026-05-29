@@ -10,4 +10,3 @@ queries.py
 data/raw_data/
 scripts/start-dev.ps1
 *.ipynb
-app.py
