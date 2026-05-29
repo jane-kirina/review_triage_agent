@@ -5,7 +5,6 @@ __pycache__
 
 note.txt
 TODO.md
-queries.py
 
 data/raw_data/
 scripts/start-dev.ps1
