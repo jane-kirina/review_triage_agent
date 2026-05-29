@@ -4,7 +4,10 @@ __pycache__
 .env
 
 note.txt
+TODO.md
+queries.py
 
 data/raw_data/
 scripts/start-dev.ps1
 *.ipynb
+app.py

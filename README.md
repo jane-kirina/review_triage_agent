@@ -46,12 +46,11 @@ The project uses a simple ETL pipeline to load Kaggle CSV files into PostgreSQL.
 python scripts/data_ingestion.py
 ```
 
-5. Verify loaded data:
+2. Verify loaded data:
 
 ```bash
 python scripts/verify_db.py
 ```
-
 
 
 ## LangGraph Workflow
